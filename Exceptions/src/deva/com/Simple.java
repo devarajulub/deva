@@ -7,7 +7,7 @@ public class Simple {
 try
 {
 	System.out.println("try");
-	System.exit(0);
+	//System.exit(0);
 }
 catch(Exception e)
 {
